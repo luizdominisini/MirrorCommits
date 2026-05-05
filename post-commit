@@ -1,0 +1,2 @@
+#!/bin/sh
+REPO="YOUR-REPOSITORY-NAME" node "$HOME/.git-hooks/mirror.js"
